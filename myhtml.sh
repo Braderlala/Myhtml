@@ -37,7 +37,7 @@ cat <<LOGIN>$nama.html
 	<link href='https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap' rel='stylesheet'>
 	<link href='https://fonts.googleapis.com/css2?family=Indie+Flower&family=Metal+Mania&display=swap' rel='stylesheet'>
 	<link href='https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap' rel='stylesheet'> 
-	<script language=JavaScript> message='White Cyber Illusion';function clickIE4(){if (event.button==2){alert(message);return false;}}function clickNS4(e){if (document.layers||document.getElementById&&!document.all){if (e.which==2||e.which==3){alert(message);return false;}}}if (document.layers){document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS4;}else if (document.all&&!document.getElementById){document.onmousedown=clickIE4;}document.oncontextmenu=new Function('alert(message);return false')// --></script> 
+	<script language=JavaScript> message='Security just a peanuts';function clickIE4(){if (event.button==2){alert(message);return false;}}function clickNS4(e){if (document.layers||document.getElementById&&!document.all){if (e.which==2||e.which==3){alert(message);return false;}}}if (document.layers){document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS4;}else if (document.all&&!document.getElementById){document.onmousedown=clickIE4;}document.oncontextmenu=new Function('alert(message);return false')// --></script> 
 	<style type='text/css'>
 		body{
 			background:url(https://f.top4top.io/p_1577h5txv0.gif);
