@@ -4,6 +4,8 @@
 #TOOL : MyHTML
 #AUTHOR : BR4DERL4L4
 
+clear
+
 echo
 echo -e "\033[1;97m  _    _ _______ __  __ _       "
 echo -e " | |  | |__   __|  \/  | |      "
