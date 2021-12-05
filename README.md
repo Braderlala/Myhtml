@@ -18,6 +18,6 @@ $ git clone https://github.com/Braderlala/Myhtml
 
 $ cd Myhtml
 
-$ Bash myhtml.sh
+$ bash myhtml.sh
 
 ```
