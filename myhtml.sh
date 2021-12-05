@@ -12,7 +12,7 @@ echo -e " |  __  |  | |  | |\/| | |      "
 echo -e " | |  | |  | |  | |  | | |____  "
 echo -e " |_|  |_|  |_|  |_|  |_|______| "
 echo
-echo -e " Creator : BR4DERL4L4"
+echo -e " Penulis Hensem : BR4DERL4L4"
 echo
 echo -e " [⁰-⁰] Contoh : Nama file jangan ada(.html) "
 read -p ' [⁰-⁰] Nama file   : ' nama
